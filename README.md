@@ -4,7 +4,7 @@ This project is a responsive clone of the **Netflix landing page**, built using 
 
 ## 🌐 Live Preview
 
-> https://github.com/jaskaransingh2121/netflix-landing-page.git
+> https://jaskaransingh2121.github.io/Netflix-Landing-Page/
 
 ---
 
